@@ -97,6 +97,10 @@ make
 
 ### 测试结果
 
+
+<img width="780" height="214" alt="image" src="https://github.com/user-attachments/assets/9a438a0f-f77d-4894-b499-ac79034619b3" />
+
+
 | 指标 | 数值 |
 | :--- | :--- |
 | 并发连接数 (Connections) | 10,000 |
